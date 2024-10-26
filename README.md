@@ -47,7 +47,7 @@ Googleアカウントが必要です。
 
 - ⓵を押すと⓶が出てきます。少し時間がかかることがあります。５秒くらい。
 
-- ⓶を押して、グラフを作りたいCSVファイルをアップロードしてください。
+- ⓶を押して、使いたいCSVファイルをアップロードしてください。
 
 ![画像４](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo4.png)
 
