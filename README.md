@@ -57,9 +57,10 @@ Googleアカウントが必要です。
 
 ## 参考文献
 
-- [Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/16980142/)
-- [Statistical methods for assessing agreement between two methods of clinical measurement](https://www.jstage.jst.go.jp/article/rika/25/1/25_1_49/_pdf)
-- [Statistical methods for assessing agreement between two methods of clinical measurement](https://www.jstage.jst.go.jp/article/rika/26/3/26_3_451/_pdf)
+- [When to use agreement versus reliability measures](https://pubmed.ncbi.nlm.nih.gov/16980142/)
+- [Interpreting change scores of tests and measures used in physical therapy](https://pubmed.ncbi.nlm.nih.gov/16649896/)
+- [最小可検変化量を用いた2種類の継ぎ足歩行テストの絶対信頼性の検討](https://www.jstage.jst.go.jp/article/rika/25/1/25_1_49/_pdf)
+- [評価の絶対信頼性](https://www.jstage.jst.go.jp/article/rika/26/3/26_3_451/_pdf)
 
 ## お問い合わせ
 
