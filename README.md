@@ -6,8 +6,7 @@
 
 例えばこのような結果を得ることできます。
 
-- ↓サンプル⓵
-- 出力の最後に、Pythonと各ライブラリ（パッケージ）のバージョンが出ます。
+- ↓サンプル。出力の最後に、Pythonと各ライブラリ（パッケージ）のバージョンが出ます。
 
 ![サンプル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo1.png)
 
@@ -17,18 +16,18 @@
 行や列ついては、以下のファイルの形式に沿って入力してください。
 - カラム（列）のデフォルトは左から「targets（対象）」「raters（評価者）」「ratings（評価・スコアなど）」ですが、英語表記であればどのような名前でも対応できます。
 
-- [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/detaset/deta.csv)
+- [サンプルのCSVファイル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/detaset/deta.csv)
 
 サンプルグラフのCSVファイルは赤丸の場所からダウンロードできます。
 
-![画像１](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo3.png)
+![画像１](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo2.png)
 
 
 - 次に、後で使うので、↓こちらのファイルを押してから
-- [Pythonコードのファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/bland_altman.ipynb)
+- [Pythonコードのファイル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/icc.ipynb)
 
-- この赤丸の場所を押してbland_altman.ipynbというファイルをダウンロードしておいてください。
-![画像３](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo4.png)
+- この赤丸の場所を押してicc.ipynbというファイルをダウンロードしておいてください。
+![画像３](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo3.png)
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
 
@@ -47,11 +46,11 @@ Googleアカウントが必要です。
 
 - ⓶を押して、グラフを作りたいCSVファイルをアップロードしてください。
 
-![画像４](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo5.png)
+![画像４](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo4.png)
 
 
 - 最後に、↓の画像の'hoge.csv'のところを、自分がアップロードしたファイルの名前に変更して、上の赤丸の△ボタンを押します。Ctrl + Enterでもいいです。
-![画像５](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo6.png)
+![画像５](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo5.png)
 
 3. **グラフが表示されたら、右クリックで画像を保存してください**
 
