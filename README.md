@@ -55,7 +55,7 @@ Googleアカウントが必要です。
 - 最後に、↓の画像の'hoge.csv'のところを、自分がアップロードしたファイルの名前に変更して、上の赤丸の△ボタンを押します。Ctrl + Enterでもいいです。
 ![画像５](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo5.png)
 
-3. **グラフが表示されたら、右クリックで画像を保存してください**
+3. **結果が出力されます**
 
 
 ## 参考文献
