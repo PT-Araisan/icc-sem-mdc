@@ -6,24 +6,18 @@
 
 例えばこのような結果を得ることできます。
 
-- ↓サンプルグラフ⓵
+- ↓サンプル⓵
 - 出力の最後に、Pythonと各ライブラリ（パッケージ）のバージョンが出ます。
 
-![サンプルグラフ](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo1.png)
-
-- ↓サンプルグラフ⓶
-
-![サンプルグラフ](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo2.png)
-
+![サンプル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo1.png)
 
 ## 使い方手順
 
 1. **データの準備**: グラフで使用するCSVファイルを用意してください。CSVファイルは、エクセルで作成した表データの保存時にCSV形式を選ぶだけでも可能です。
 行や列ついては、以下のファイルの形式に沿って入力してください。
-- [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/deta.csv)
+- カラム（列）のデフォルトは左から「targets（対象）」「raters（評価者）」「ratings（評価・スコアなど）」ですが、英語表記であればどのような名前でも対応できます。
 
-- [サンプルグラフ⓶のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/deta2.csv)
-
+- [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/detaset/deta.csv)
 
 サンプルグラフのCSVファイルは赤丸の場所からダウンロードできます。
 
