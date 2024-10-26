@@ -31,7 +31,7 @@
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
 
-- [Google colabのサイトへ行きます）](https://colab.research.google.com/?hl=ja)
+- [Google colabのサイトへ行きます](https://colab.research.google.com/?hl=ja)
 Googleアカウントが必要です。
 
 - そして↓アップロードを押す。
@@ -55,17 +55,12 @@ Googleアカウントが必要です。
 3. **グラフが表示されたら、右クリックで画像を保存してください**
 
 
-## 補足事項
+## 参考文献
 
-- お時間ありましたら、こちらのBland-Altmanプロットに関する論文も読むことをお勧めします。[Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/2868172/)
+- [Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/16980142/)
+- [Statistical methods for assessing agreement between two methods of clinical measurement](https://www.jstage.jst.go.jp/article/rika/25/1/25_1_49/_pdf)
+- [Statistical methods for assessing agreement between two methods of clinical measurement](https://www.jstage.jst.go.jp/article/rika/26/3/26_3_451/_pdf)
 
 ## お問い合わせ
 
 何か質問や要望があれば、[Twitter の DM](https://x.com/Pt96442837Pt) からお気軽にお知らせください。
-
-資料
-- https://pingouin-stats.org/build/html/index.html
-- https://www.jstage.jst.go.jp/article/rika/25/1/25_1_49/_pdf
-- https://pubmed.ncbi.nlm.nih.gov/16980142/
-- https://www.jstage.jst.go.jp/article/rika/26/3/26_3_451/_pdf
-- https://researchmap.jp/blogs/blog_entries/view/81322/f0395dc6f49d60b905ceb869e452e87a?frame_id=587187
