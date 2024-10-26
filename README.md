@@ -41,7 +41,7 @@ Googleアカウントが必要です。
 ![画像４](https://github.com/PT-Araisan/scd-mltbs-graph/blob/main/assets/demo2.png)
 もしくはファイルのタブから『ノートブックをアップロード』を押す。
 
-- さっきダウンロードしたbland_altman.ipynbをアップロードしてください。
+- さっきダウンロードしたicc.ipynbをアップロードしてください。
 
 すると、↓このような画面になります。そこで
 
