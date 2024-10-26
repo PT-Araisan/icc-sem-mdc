@@ -21,7 +21,7 @@
 
 - [サンプルのCSVファイル](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/detaset/deta.csv)
 
-サンプルグラフのCSVファイルは赤丸の場所からダウンロードできます。
+サンプルのCSVファイルは赤丸の場所からダウンロードできます。
 
 ![画像１](https://github.com/PT-Araisan/icc-sem-mdc/blob/main/assets/demo2.png)
 
